@@ -90,6 +90,10 @@ case sensitive (-i) `grep -i Towers movies.csv`
 sobre nuestra red `ipconfig`
 ping a una pagina web `ping www.google.com`
 
+obtimizar una pagina web `curl www.google.com`
+
+obtimizar una pagina web `wget www.google.com`
+
 ## Comprimir Archivos Tar y Zip
 comprimir Tar ` tar -cvf ToCompress.tar ToCompress`
 
